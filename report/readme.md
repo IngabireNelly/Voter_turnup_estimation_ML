@@ -228,6 +228,8 @@ Incorporating **country-level data and registration ratio** improved accuracy an
 ### **Vote turnout analysis by voting age**
 ![Screenshot](./powerbi/Vote_turnout_by_voting_age.png)
 
+### **Q&A on Vote turnout**
+![Screenshot](./powerbi/Q&A_on_voter_turnout%20.png)
 
 ---
 
